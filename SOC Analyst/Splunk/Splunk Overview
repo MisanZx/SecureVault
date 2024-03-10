@@ -1,6 +1,5 @@
-Splunk Overview
+# Splunk Overview
 
-What is Splunk?
 
 Splunk Enterprise Security (ES) is a powerful Security Information and Event Management (SIEM) solution offered by Splunk Inc. SIEM systems are designed to provide a comprehensive approach to managing security incidents and events by collecting, analyzing, and correlating data from various sources across an organization's IT infrastructure.
 
