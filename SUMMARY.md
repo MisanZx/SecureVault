@@ -6,3 +6,7 @@
 * [Tools](Tools/README.md)
   * [Splunk](Tools/Splunk/README.md)
     * [Splunk Overview](<Tools/Splunk/Splunk Overview.md>)
+
+## Other
+
+* [Ideas](other/ideas.md)
