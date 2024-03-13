@@ -9,5 +9,4 @@
   * [Powershell](programming-languages/powershell.md)
 * [Software and Tools](software-and-tools/README.md)
   * [Splunk](software-and-tools/splunk/README.md)
-    * [Splunk Overview](software-and-tools/splunk/splunk-overview.md)
     * [Splunk Basic Queries](software-and-tools/splunk/splunk-basic-queries.md)

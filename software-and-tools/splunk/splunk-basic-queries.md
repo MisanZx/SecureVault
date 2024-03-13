@@ -32,11 +32,7 @@ The main reason is to narrow the search as quick as possible otherwise you would
 
 Splunk allows you to combine multiple search artifacts using Boolean operators such as:
 
-| Command | Description                                 |   |
-| ------- | ------------------------------------------- | - |
-| AND     | is and the other artifacts                  |   |
-| OR      | could be either one or both of the artifact |   |
-| NOT     | will not be this artifact                   |   |
+<table><thead><tr><th>Command</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>AND</td><td>is and the other artifacts</td><td></td></tr><tr><td>OR</td><td>could be either one or both of the artifact</td><td></td></tr><tr><td>NOT</td><td>will not be this artifact</td><td></td></tr></tbody></table>
 
 Getting creative you could do something like:
 
