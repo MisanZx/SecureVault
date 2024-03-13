@@ -10,7 +10,8 @@
   * [Page](tools/page.md)
 * [Page 1](page-1/README.md)
   * [Programming Languages](page-1/programming-languages/README.md)
-    * [Python](page-1/programming-languages/python.md)
+    * [Python](page-1/programming-languages/python/README.md)
+      * [Web Scraping with Python](page-1/programming-languages/python/web-scraping-with-python.md)
     * [Powershell](page-1/programming-languages/powershell.md)
 
 ## Other
