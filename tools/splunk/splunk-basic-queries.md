@@ -50,4 +50,4 @@ index=<index_name> <keyword1*> AND <keyword2> OR <keyword3> NOT <keyword4>
 
 Refer to the official documentation from Spunk:
 
-[https://docs.splunk.com/Documentation/Splunk/9.1.2/SearchReference/Commandsbytype](https://docs.splunk.com/Documentation/Splunk/9.1.2/SearchReference/Commandsbytype)&#x20;
+[ ](https://docs.splunk.com/Documentation/Splunk/9.1.2/SearchReference/ListOfSearchCommands)[https://docs.splunk.com/Documentation/Splunk/9.1.2/SearchReference/ListOfSearchCommands](https://docs.splunk.com/Documentation/Splunk/9.1.2/SearchReference/ListOfSearchCommands)
