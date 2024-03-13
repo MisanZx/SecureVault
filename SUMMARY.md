@@ -8,6 +8,10 @@
     * [Splunk Overview](tools/splunk/splunk-overview.md)
     * [Splunk Basic Queries](tools/splunk/splunk-basic-queries.md)
   * [Page](tools/page.md)
+* [Page 1](page-1/README.md)
+  * [Programming Languages](page-1/programming-languages/README.md)
+    * [Python](page-1/programming-languages/python.md)
+    * [Powershell](page-1/programming-languages/powershell.md)
 
 ## Other
 
