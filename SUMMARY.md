@@ -8,6 +8,8 @@
     * [Web Scraping with Python](programming-languages/python/web-scraping-with-python.md)
   * [Powershell](programming-languages/powershell.md)
 * [Software and Tools](software-and-tools/README.md)
+  * [Misan's Custom Sandbox](software-and-tools/misans-custom-sandbox.md)
+  * [REMnux](software-and-tools/remnux.md)
   * [Pfsense](software-and-tools/pfsense.md)
   * [Splunk](software-and-tools/splunk/README.md)
     * [Splunk Basic Queries](software-and-tools/splunk/splunk-basic-queries.md)
