@@ -1,6 +1,8 @@
 # Table of contents
 
 * [SecureVault 🛡️](README.md)
+* [Learning Pathways](learning-pathways/README.md)
+  * [SC-200](learning-pathways/sc-200.md)
 * [SOC Analyst](<SOC Analyst/README.md>)
   * [Role Overview](<SOC Analyst/Role Overview.md>)
 * [Programming Languages](programming-languages/README.md)
