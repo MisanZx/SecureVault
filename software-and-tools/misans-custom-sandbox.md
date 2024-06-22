@@ -20,6 +20,7 @@ Windows:
 * Remove all bloatware
 * Install well known Office products
 * Install Sublime - Text Editor
+* Install other testing tools - to build a longer list
 * Gamebar off
 * Hide desktop icons
 * Taskbar on the left
