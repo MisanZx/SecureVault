@@ -82,3 +82,20 @@ User Risk
 | -------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------- |
 | Risky sign-ins | Location details, device details, sign-ins confirmed as safe, or with dismissed or remediated risks. | Confirm that sign-ins are safe or confirm that they're compromised.                                     | Last 30 days   |
 | Risky users    | Lists of users at risk and users with dismissed or remediated risks. User history of risky sign-ins. | Reset user passwords, dismiss user risk, block user sign-ins, and confirm user accounts as compromised. | Not applicable |
+
+
+
+#### MDI - Defender for Identity
+
+Defender for Identity, often associated with Microsoft, is a cybersecurity solution designed to protect enterprise networks from various identity-based threats. It continuously monitors user activities and security events by tapping into data from Active Directory, thus creating a behavioral baseline for each user.
+
+DC's / AD needs the senors to be on the devices to ensure that they are operating as they should.
+
+Microsoft Defender for Identity is a cloud-based security solution that leverages your on-premises Active Directory.
+
+More information about the sensors and how to deploy are here: [https://learn.microsoft.com/en-us/defender-for-identity/deploy/download-sensor](https://learn.microsoft.com/en-us/defender-for-identity/deploy/download-sensor)
+
+There you would download the file and run on AD. To link up, go into the defender settings and configure the sensor.
+
+#### Cloud Apps
+
