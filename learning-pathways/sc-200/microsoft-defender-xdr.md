@@ -2,9 +2,7 @@
 
 Intro
 
-While this not the full guide, please refer to MS learn for the full guide and learning paths.
-
-
+While this not the full guide, please refer to MS learn for the full guide and learning paths. I have taken some elements from the topics of which I have used to further my own learning.&#x20;
 
 #### MS Learn Topics:
 
@@ -12,7 +10,7 @@ While this not the full guide, please refer to MS learn for the full guide and l
 * Mitigate incidents using Microsoft 365 Defender (✔)
 * Protect your identities with Microsoft Entra ID Protection (✔)
 * Remediate risks with Microsoft Defender for Office 365 (✔)
-* Safeguard your environment with Microsoft Defender for Identity&#x20;
+* Safeguard your environment with Microsoft Defender for Identity (✔)&#x20;
 * Secure your cloud apps and services with Microsoft Defender for Cloud Apps
 
 #### MS XDR - MS Security Graph
@@ -70,7 +68,7 @@ I have seen in the past for some use cases that you may want to use dynamic deli
 #### Configuring Microsoft for Identity Sensors
 
 1. Create an instance on Microsoft Defender for Identity management portal.
-2. Specify an on-premises AD service account in the Microsoft Defender for Identity portal.
+2. Specify an on-premises AD managed service account in the Microsoft Defender for Identity portal.
 3. Download and install the sensor package.
 4. Install the Microsoft Defender for Identity sensor on all domain controllers.
 5. Integrate your VPN solution (optional).
@@ -78,3 +76,13 @@ I have seen in the past for some use cases that you may want to use dynamic deli
 7. Configure the required permissions for the sensor to make SAM-R calls.
 8. Configure integration with Microsoft Defender for Cloud Apps.
 9. Configure integration with Microsoft Defender XDR (optional).
+
+It is best practice to use a managed service account and not a daily driver account as you  do not want to get yourself locked out or compromised that would allow possible access to your devices.
+
+Microsoft Defender for Identity is a cloud-based security solution that leverages your on-premises Active Directory.
+
+Currently, there is no supported integration with Microsoft Defender for Identity and Microsoft Intune.
+
+#### Defender for Cloud
+
+Defender for cloud is super useful when requiring to discover and control the usage of shadow IT apps being used across the business. It gives analysts like me and you great visibility of which you may have not been aware of.
