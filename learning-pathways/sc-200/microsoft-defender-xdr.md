@@ -11,7 +11,7 @@ While this not the full guide, please refer to MS learn for the full guide and l
 * Protect your identities with Microsoft Entra ID Protection (✔)
 * Remediate risks with Microsoft Defender for Office 365 (✔)
 * Safeguard your environment with Microsoft Defender for Identity (✔)&#x20;
-* Secure your cloud apps and services with Microsoft Defender for Cloud Apps
+* Secure your cloud apps and services with Microsoft Defender for Cloud Apps (✔)
 
 #### MS XDR - MS Security Graph
 
@@ -86,3 +86,36 @@ Currently, there is no supported integration with Microsoft Defender for Identit
 #### Defender for Cloud
 
 Defender for cloud is super useful when requiring to discover and control the usage of shadow IT apps being used across the business. It gives analysts like me and you great visibility of which you may have not been aware of.
+
+The primary goal is to stop breaches and leaks in real time.
+
+You can configure these policies within **Conditional Access App Control**
+
+
+
+#### File Classification And Sensitivity
+
+Classifying the type of data is the hardest step and making sure it is accurate.
+
+I would break it down into four main phases:
+
+1. Discover the data you want to classify
+2. Classify the information accordingly
+3. Protect the data (set your policy controls)
+4. Monitor and reporting your data
+
+After discovery,  enable this setting to help with the sensitive labeling.
+
+<figure><img src="../../.gitbook/assets/phase-2-classify-sensitive-information.png" alt=""><figcaption></figcaption></figure>
+
+Data is heavily subjective but in hindsight follows they can be categorised into:
+
+
+
+| Type                    | Description                                                                                                                                           | My Recommendations                                                                                                                                                               |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Personal                | Data for personal, non-business use only.                                                                                                             | Things like your payslip is allowed to be sent to your personal email address                                                                                                    |
+| Public                  | Data that can be shared for public consumption, such as marketing posters and blog posts.                                                             | This data is safe to share, \*however check with data protection and or your marketing team if you have any concerns.                                                            |
+| **General**             | Data that can't be shared for public consumption, but can be shared with external partners. For example, project timelines and organizational charts. | This area is highly subjective. Use common sense here, you would not supply all of customer data to a different client that is not working on the same project for your company. |
+| **Confidential**        | Data that could damage the organization if it's shared with unauthorized people. For example, sales account data and forecasts.                       | Do not share this data to external parties.                                                                                                                                      |
+| **Highly confidential** | Very sensitive data that will cause serious damage if shared with unauthorized people. For example, customer details, passwords and source code.      | Do not share this data to external parties. These areas are usually core parts of your business that help it function and must be kept safe at all costs where possible.         |
