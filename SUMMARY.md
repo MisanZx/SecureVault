@@ -4,6 +4,7 @@
 * [Learning Pathways](learning-pathways/README.md)
   * [SC-200](learning-pathways/sc-200/README.md)
     * [Microsoft Defender XDR](learning-pathways/sc-200/microsoft-defender-xdr.md)
+    * [Microsoft Copilot for Security](learning-pathways/sc-200/microsoft-copilot-for-security.md)
 * [SOC Analyst](<SOC Analyst/README.md>)
   * [Role Overview](<SOC Analyst/Role Overview.md>)
 * [Programming Languages](programming-languages/README.md)
