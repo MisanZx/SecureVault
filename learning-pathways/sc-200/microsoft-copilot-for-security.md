@@ -6,7 +6,7 @@ Microsoft Copilot for security can be a very powerful tool added to your current
 
 However, to remember the successes of the technology has to be made with "good sets" of data else it would be outputting incorrect or inaccurate results.
 
-#### MS Learn Topics
+#### MS Learn Topics:
 
 * Fundamentals of Generative AI (✔)
 * Describe Microsoft Copilot for Security (✔)
