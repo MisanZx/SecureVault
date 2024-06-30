@@ -72,3 +72,27 @@ Tranform data
 7. Then change columns on the ones you want.
 
 You can download a maximum of 50,000 entries to a CSV file from a single audit log search. If your search results exceed this limit, consider using a narrower date range to manage the volume of data.
+
+
+
+#### Investigating Threats with Purview
+
+Microsoft Purview provides three eDiscovery solutions:
+
+<figure><img src="../../.gitbook/assets/microsoft-purview-ediscovery-solutions-545d62bd (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/new-search-wizard-locations-page-unit-3.png" alt=""><figcaption></figcaption></figure>
+
+When creating the search, you can toggle and specify the different groupings.
+
+
+
+View the search results and statistics
+
+A maximum of 1,000 randomly selected items are available to preview. A maximum of 100 items from a single content location (a mailbox or a site) can be previewed.
+
+Disabling anti-virus scanning on the folder to which you're downloading search results helps to optimize the download process. You have to be careful here when trying to attempt heavy downloads, so try to narrow down the search as best as possible before attempting to export the data.
+
+To run a compliance filter, Organisation Management role group in the Microsoft Purview compliance portal
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
