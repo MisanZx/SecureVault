@@ -6,6 +6,8 @@
     * [Microsoft Defender XDR](learning-pathways/sc-200/microsoft-defender-xdr.md)
     * [Microsoft Copilot for Security](learning-pathways/sc-200/microsoft-copilot-for-security.md)
     * [Microsoft Purview](learning-pathways/sc-200/microsoft-purview.md)
+    * [Microsoft Defender for Endpoint (Entra)](learning-pathways/sc-200/microsoft-defender-for-endpoint-entra.md)
+    * [Microsoft Defender for Cloud](learning-pathways/sc-200/microsoft-defender-for-cloud.md)
 * [SOC Analyst](<SOC Analyst/README.md>)
   * [Role Overview](<SOC Analyst/Role Overview.md>)
 * [Programming Languages](programming-languages/README.md)

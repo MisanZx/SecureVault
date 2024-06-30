@@ -10,9 +10,10 @@ MS Purview provides a unified data governance solution to help manage and govern
 
 #### MS Learn Topics:
 
-Respond to data loss prevention alerts using Microsoft 365 (✔)
-
-
+* Respond to data loss prevention alerts using Microsoft 365 (✔)
+* Manage insider risk in Microsoft Purview (✔)
+* Search and investigate with Microsoft Purview Audit (✔)
+* Investigate threats with Content search in Microsoft Purview (✔)
 
 #### DLP Alerts and Components
 
