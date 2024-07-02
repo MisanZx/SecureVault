@@ -8,6 +8,7 @@
     * [Microsoft Purview](learning-pathways/sc-200/microsoft-purview.md)
     * [Microsoft Defender for Endpoint (Entra)](learning-pathways/sc-200/microsoft-defender-for-endpoint-entra.md)
     * [Microsoft Defender for Cloud](learning-pathways/sc-200/microsoft-defender-for-cloud.md)
+    * [Microsoft Hunting in KQL](learning-pathways/sc-200/microsoft-hunting-in-kql.md)
 * [SOC Analyst](<SOC Analyst/README.md>)
   * [Role Overview](<SOC Analyst/Role Overview.md>)
 * [Programming Languages](programming-languages/README.md)
