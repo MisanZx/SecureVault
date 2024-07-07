@@ -144,3 +144,35 @@ You would use this if you were trying to be more specific on columns.
 union operator
 
 You would use this to merge two different tables all into one set of data.
+
+
+
+#### Extracting data from an unstructured string (nested data)
+
+```kusto
+print extract("x=([0-9.]+)", 1, "hello x=45.6|wo") == "45.6"
+```
+
+When dealing with unstructured data the main two operators you would use is the extract or parse.
+
+
+
+Dynamic fields
+
+I find this easier to extract the information that is nested inside the JSON.
+
+```kusto
+SigninLogs 
+| extend AD_HiddenGroup = AdditionalField.[TO.GROUP]
+```
+
+For JSON data there are more operators you can use:
+
+| Function                    | Description                                                                                                                                                                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| parse-json() or todynamic() | Interprets a string as a JSON value and returns the value as dynamic. Use either of these functions to refer to a field: JsonField.Key or JsonField\["Key"]                                                                         |
+| mv-expand                   | is applied on a dynamic-typed array or property bag column so that each value in the collection gets a separate row. All the other columns in an expanded row are duplicated. mv\_expand is the easiest way to process JSON arrays. |
+| mv-apply                    | Applies a subquery to each record and returns the union of the results of all subqueries. Apply a query to each value in an array.                                                                                                  |
+
+
+
