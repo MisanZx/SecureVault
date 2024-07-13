@@ -13,6 +13,7 @@
       * [Microsoft Configuration](learning-pathways/sc-200/microsoft-sentinel/microsoft-configuration.md)
       * [Connecting logs to Sentinel](learning-pathways/sc-200/microsoft-sentinel/connecting-logs-to-sentinel.md)
       * [Create detections and perform investigations using Microsoft Sentinel](learning-pathways/sc-200/microsoft-sentinel/create-detections-and-perform-investigations-using-microsoft-sentinel.md)
+      * [Data normalisation in Microsoft Sentinel](learning-pathways/sc-200/microsoft-sentinel/data-normalisation-in-microsoft-sentinel.md)
 * [SOC Analyst](<SOC Analyst/README.md>)
   * [Role Overview](<SOC Analyst/Role Overview.md>)
 * [Programming Languages](programming-languages/README.md)

@@ -83,7 +83,7 @@ Playbooks are generally used for more complex tasks.
 
 
 
-Playbooks are created with Logic Apps
+Playbooks are created with Logic Apps.
 
 
 
@@ -98,4 +98,6 @@ Analytics rules to generate alerts in Microsoft Sentinel
 * Incident Entities
 
 Events link you back to one or more specific events from the Log Analytics workspace associated with Microsoft Sentinel.
+
+Insights will display Entity Behavior information.
 
