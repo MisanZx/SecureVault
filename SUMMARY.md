@@ -1,6 +1,7 @@
 # Table of contents
 
 * [SecureVault 🛡️](README.md)
+  * [Br0k3N5hell](readme/br0k3n5hell.md)
 * [Learning Pathways](learning-pathways/README.md)
   * [SC-200](learning-pathways/sc-200/README.md)
     * [Microsoft Defender XDR](learning-pathways/sc-200/microsoft-defender-xdr.md)
@@ -14,6 +15,7 @@
       * [Connecting logs to Sentinel](learning-pathways/sc-200/microsoft-sentinel/connecting-logs-to-sentinel.md)
       * [Create detections and perform investigations using Microsoft Sentinel](learning-pathways/sc-200/microsoft-sentinel/create-detections-and-perform-investigations-using-microsoft-sentinel.md)
       * [Data normalisation in Microsoft Sentinel](learning-pathways/sc-200/microsoft-sentinel/data-normalisation-in-microsoft-sentinel.md)
+  * [PicoCTF](learning-pathways/picoctf.md)
 * [SOC Analyst](<SOC Analyst/README.md>)
   * [Role Overview](<SOC Analyst/Role Overview.md>)
 * [Programming Languages](programming-languages/README.md)
