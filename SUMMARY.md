@@ -19,6 +19,7 @@
     * [Web Exploitation](learning-pathways/ctf/web-exploitation/README.md)
       * [WebDecode](learning-pathways/ctf/web-exploitation/webdecode.md)
       * [Unminify](learning-pathways/ctf/web-exploitation/unminify.md)
+      * [IntroToBurp](learning-pathways/ctf/web-exploitation/introtoburp.md)
 * [SOC Analyst](<SOC Analyst/README.md>)
   * [Role Overview](<SOC Analyst/Role Overview.md>)
 * [Programming Languages](programming-languages/README.md)

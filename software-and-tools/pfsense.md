@@ -18,7 +18,7 @@ First head over to the webpage and download the iso image:
 
 
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Todays' date of download the ISO is 16/03/2024 so your should be a newer version.
 
@@ -32,21 +32,21 @@ _When installing the OS, please ensure that enough allocated resources are appli
 
 Depending how you are networking the device I would recommend connecting up the cables (virtually) to get it all ready for the setup.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 I hit next to all of the default steps.
 
 on this part hit the "space" bar to select the option.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 hit "enter" to the next screen and it should start installing.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After when it is fully done the machine will reboot.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Since we have already added the other VMnet on the setup, it should auto create the lan and assign it as em1 as shown above.
 
