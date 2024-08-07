@@ -1,4 +1,4 @@
-# Br0k3N5hell
+# Verify.Me
 
 ## Intro
 
@@ -23,7 +23,7 @@ The development of the content may change as time goes on but will try to catego
 
 ## General Skills
 
-Most of these skills will be all within the Linux environment, so buckle up. We all have our favorite Distros' of what is best. As long as you are familiar with it that is good enough for you then you can build out from there and make a snapshot of how exactly you want it to be. One that I have been using a lot is [REMnux](https://remnux.org/).
+Most of these skills will be all within the Linux environment, so buckle up. We all have our favorite Distros' of what is best. As long as you are familiar with it that is good enough for you then you can build out from there and make a snapshot of how exactly you want it to be. One that I have been using a lot is [ParrotSec](https://parrotsec.org/).
 
 So you got your Distro up and ready to go.
 

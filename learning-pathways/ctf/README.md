@@ -2,7 +2,7 @@
 description: Capture the flag
 ---
 
-# PicoCTF
+# CTF
 
 ## Intro
 
@@ -10,4 +10,4 @@ PicoCTF is a learning platform to practice on capture the flag.
 
 Let the hunt begin.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
