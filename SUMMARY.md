@@ -1,7 +1,7 @@
 # Table of contents
 
 * [SecureVault 🛡️](README.md)
-  * [Br0k3N5hell](readme/br0k3n5hell.md)
+  * [Verify.Me](readme/verify.me.md)
 * [Learning Pathways](learning-pathways/README.md)
   * [SC-200](learning-pathways/sc-200/README.md)
     * [Microsoft Defender XDR](learning-pathways/sc-200/microsoft-defender-xdr.md)
