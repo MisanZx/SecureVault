@@ -48,7 +48,7 @@ Exporting audit logs to CSV enables extensive data manipulation and deeper insig
 
 Administrators set a priority level to determine which policy takes precedence if there are conflicts.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Exporting data using Power Query Editor
 
@@ -96,4 +96,4 @@ Disabling anti-virus scanning on the folder to which you're downloading search r
 
 To run a compliance filter, Organisation Management role group in the Microsoft Purview compliance portal
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>

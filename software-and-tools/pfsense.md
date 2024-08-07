@@ -18,7 +18,7 @@ First head over to the webpage and download the iso image:
 
 
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Todays' date of download the ISO is 16/03/2024 so your should be a newer version.
 
@@ -32,21 +32,21 @@ _When installing the OS, please ensure that enough allocated resources are appli
 
 Depending how you are networking the device I would recommend connecting up the cables (virtually) to get it all ready for the setup.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 I hit next to all of the default steps.
 
 on this part hit the "space" bar to select the option.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 hit "enter" to the next screen and it should start installing.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After when it is fully done the machine will reboot.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Since we have already added the other VMnet on the setup, it should auto create the lan and assign it as em1 as shown above.
 
@@ -60,7 +60,7 @@ On the MGT machine, go to the lan ip address: 192.168.1.1.&#x20;
 
 You should get something like this:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 It is okay, this is normal, continue anyways.
 
@@ -74,13 +74,13 @@ _Highly recommended to change the default password to prevent people accessing y
 
 _Going through the GUI, you can change any of the settings within the wizard as it gives nice example and descriptions, if unsure click "next" till you get to the end screen._
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Awesome, you have made it this far. You are now all setup so you can explore to find out what you want you want to do.&#x20;
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Some Ideas what you can do
 
@@ -88,7 +88,7 @@ You could add more machines to your network and restrict the services:
 
 This is the default rules and there is hierarchy so make sure its in the right order.&#x20;
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Some other ideas:
 
