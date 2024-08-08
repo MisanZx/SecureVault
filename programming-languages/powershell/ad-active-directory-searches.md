@@ -1,4 +1,4 @@
-# AD (Active Directory)
+# AD (Active Directory) Searches
 
 #### Usage
 
@@ -9,7 +9,6 @@ A Powershell script to find users that have the "Password Never Expire" attribut
 <pre class="language-powershell"><code class="lang-powershell"><strong># script to find users that have the "Password Never Expire" attribute enabled
 </strong>
 #Import AD module to the session
-
 Import-Module ActiveDirectory
 
 #Search for users and export to CSV
@@ -19,4 +18,8 @@ $_.passwordNeverExpires -eq "true" } | Select-Object UserPrincipalName, Name, En
 cd C:\Temp
 start .
 </code></pre>
+
+***
+
+
 
