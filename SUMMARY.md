@@ -32,6 +32,7 @@
     * [Web Scraping with Python](programming-languages/python/web-scraping-with-python.md)
   * [Powershell](programming-languages/powershell/README.md)
     * [AD (Active Directory) Searches](programming-languages/powershell/ad-active-directory-searches.md)
+    * [Intune Detection Scripts](programming-languages/powershell/intune-detection-scripts.md)
 * [Software and Tools](software-and-tools/README.md)
   * [Misan's Custom Sandbox](software-and-tools/misans-custom-sandbox.md)
   * [REMnux](software-and-tools/remnux.md)
