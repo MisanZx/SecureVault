@@ -16,7 +16,7 @@ If this was useful, give me a like and follow me.
 
 {% code overflow="wrap" lineNumbers="true" fullWidth="true" %}
 ```powershell
-# Misan's Teams 2.
+# Misan's Teams 2.0
 # https://github.com/MisanZx
 
 $PackageName = "MicrosoftTeamsNEW"
