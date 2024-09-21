@@ -59,6 +59,9 @@ else {
     Write-Host "Teams Machine-Wide Installer not found"
 }
 
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\{731F6BAA-A986-45A4-8936-7C3AAAAA760B}" /f
+    Write-Host "Deletes the Reg Key if uninstaller did not remove correctly"
+
 # Get all Users
 $AllUsers = Get-ChildItem -Path "$($ENV:SystemDrive)\Users"
 
