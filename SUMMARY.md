@@ -2,6 +2,7 @@
 
 * [SecureVault 🛡️](README.md)
   * [Verify.Me](readme/br0k3n5hell.md)
+  * [0x Internal failure](readme/0x-internal-failure.md)
 * [Learning Pathways](learning-pathways/README.md)
   * [SC-200](learning-pathways/sc-200/README.md)
     * [Microsoft Defender XDR](learning-pathways/sc-200/microsoft-defender-xdr.md)
