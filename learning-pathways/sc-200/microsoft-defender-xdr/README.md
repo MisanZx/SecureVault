@@ -106,7 +106,7 @@ I would break it down into four main phases:
 
 After discovery,  enable this setting to help with the sensitive labeling.
 
-<figure><img src="../../.gitbook/assets/phase-2-classify-sensitive-information.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/phase-2-classify-sensitive-information.png" alt=""><figcaption></figcaption></figure>
 
 Data is heavily subjective but in hindsight follows they can be categorised into:
 
