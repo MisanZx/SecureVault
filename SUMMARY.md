@@ -36,6 +36,7 @@
     * [AD (Active Directory) Searches](programming-languages/powershell/ad-active-directory-searches.md)
     * [Software Scripts](programming-languages/powershell/software-scripts/README.md)
       * [MS Teams](programming-languages/powershell/software-scripts/ms-teams.md)
+      * [7-Zip](programming-languages/powershell/software-scripts/7-zip.md)
 * [Software and Tools](software-and-tools/README.md)
   * [Misan's Custom Sandbox](software-and-tools/misans-custom-sandbox.md)
   * [REMnux](software-and-tools/remnux.md)
