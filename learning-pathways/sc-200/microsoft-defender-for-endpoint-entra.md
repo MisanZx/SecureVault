@@ -16,8 +16,7 @@ MS Learn Topics:
 * Perform evidence and entities investigations using Microsoft Defender for Endpoint (✔)
 * Configure and manage automation using Microsoft Defender for Endpoint (✔)
 * Configure for alerts and detections in Microsoft Defender for Endpoint (✔)
-* Utilis
-* e Vulnerability Management in Microsoft Defender for Endpoint (✔)
+* Utilise Vulnerability Management in Microsoft Defender for Endpoint (✔)
 
 
 
@@ -46,7 +45,7 @@ The Manage portal system settings permission allows the configuration of storage
 
 #### Attack Surface Reduction (ASR)
 
-Attacck Surface Reduction is the hardening of places threat is likely to attack
+Attack Surface Reduction is the hardening of places threat is likely to attack
 
 
 
