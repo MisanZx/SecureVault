@@ -46,3 +46,4 @@
   * [Pfsense](software-and-tools/pfsense.md)
   * [Splunk](software-and-tools/splunk/README.md)
     * [Splunk Basic Queries](software-and-tools/splunk/splunk-basic-queries.md)
+  * [VMware](software-and-tools/vmware.md)
